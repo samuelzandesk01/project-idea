@@ -39,7 +39,7 @@ export class Login extends Component {
             </div>
             <div className="col-lg-5 col-xl-5 rounded mt-5">
               <p>{this.state.message}</p>
-              <form className=" form-wrapper py-5  border shadow">
+              <form action="" className=" form-wrapper py-5  border shadow">
                 <div className=" pl-5 mt-3 text-left">
                   <h4 className="font-weight-bolder text-uppercase">Login</h4>
                   <p>Sign in to your account to continue.</p>
