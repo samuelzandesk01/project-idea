@@ -5,6 +5,17 @@ import Printest from "../assets/img/social-icons/printest.png";
 import Facebook from "../assets/img/social-icons/facebook.svg";
 
 export class Login extends Component {
+  
+  state = {
+    message: "",
+  }
+
+
+  LoginSubmit = () =>{
+    this.setState({
+      message: "Thank you for your time, Response will be sent ASAP.."
+    });
+  }
   render() {
       const Mt = {
           marginTop: '150px'
@@ -27,6 +38,7 @@ export class Login extends Component {
               </div>
             </div>
             <div className="col-lg-5 col-xl-5 rounded mt-5">
+              <p>{this.state.message}</p>
               <form className=" form-wrapper py-5  border shadow">
                 <div className=" pl-5 mt-3 text-left">
                   <h4 className="font-weight-bolder text-uppercase">Login</h4>
@@ -51,7 +63,7 @@ export class Login extends Component {
                 </div>
                
                 <div className="text-left pl-5 pt-4">
-                  <button className="sign-up">
+                  <button className="sign-up" onClick={this.LoginSubmit} >
                     Login &#x2794;
                   </button>
                 </div>
