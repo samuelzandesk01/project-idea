@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/project-idea/static/css/main.657b0762.chunk.css",
+    "main.js": "/project-idea/static/js/main.9f172b9f.chunk.js",
+    "main.js.map": "/project-idea/static/js/main.9f172b9f.chunk.js.map",
+    "runtime-main.js": "/project-idea/static/js/runtime-main.2c022f23.js",
+    "runtime-main.js.map": "/project-idea/static/js/runtime-main.2c022f23.js.map",
+    "static/js/2.4f8697b1.chunk.js": "/project-idea/static/js/2.4f8697b1.chunk.js",
+    "static/js/2.4f8697b1.chunk.js.map": "/project-idea/static/js/2.4f8697b1.chunk.js.map",
+    "index.html": "/project-idea/index.html",
+    "precache-manifest.7e2b09124e4058c2bc94565130a3544a.js": "/project-idea/precache-manifest.7e2b09124e4058c2bc94565130a3544a.js",
+    "service-worker.js": "/project-idea/service-worker.js",
+    "static/css/main.657b0762.chunk.css.map": "/project-idea/static/css/main.657b0762.chunk.css.map",
+    "static/js/2.4f8697b1.chunk.js.LICENSE.txt": "/project-idea/static/js/2.4f8697b1.chunk.js.LICENSE.txt",
+    "static/media/app-3.png": "/project-idea/static/media/app-3.d2a92c73.png",
+    "static/media/main.css": "/project-idea/static/media/undraw_developer_activity_bv83.6137abf6.svg",
+    "static/media/facebook.svg": "/project-idea/static/media/facebook.0587f70c.svg",
+    "static/media/google.png": "/project-idea/static/media/google.df726304.png",
+    "static/media/illustration-8.png": "/project-idea/static/media/illustration-8.c0fa3294.png",
+    "static/media/presentation-1.png": "/project-idea/static/media/presentation-1.6f7a9833.png",
+    "static/media/printest.png": "/project-idea/static/media/printest.640567cf.png",
+    "static/media/product-1.png": "/project-idea/static/media/product-1.58d6dc1c.png",
+    "static/media/product-2.png": "/project-idea/static/media/product-2.667023fb.png",
+    "static/media/product-3.png": "/project-idea/static/media/product-3.c1429ccb.png",
+    "static/media/product-4.png": "/project-idea/static/media/product-4.c51a383c.png",
+    "static/media/product-5.png": "/project-idea/static/media/product-5.e060b0fd.png",
+    "static/media/product-6.png": "/project-idea/static/media/product-6.9e506259.png",
+    "static/media/trust.png": "/project-idea/static/media/trust.7901ad7c.png",
+    "static/media/undraw_coding_6mjf.png": "/project-idea/static/media/undraw_coding_6mjf.5c95677d.png",
+    "static/media/undraw_dev_productivity_umsq.svg": "/project-idea/static/media/undraw_dev_productivity_umsq.77875363.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c022f23.js",
+    "static/js/2.4f8697b1.chunk.js",
+    "static/css/main.657b0762.chunk.css",
+    "static/js/main.9f172b9f.chunk.js"
+  ]
+}
